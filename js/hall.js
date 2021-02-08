@@ -37,7 +37,7 @@ article_1.innerHTML += '<div class="container"><div class="row text-center"><h2 
 		name:'Marrige Hall'
 	},{
 		class:'hall_3',
-		name:'Confrance Hall'
+		name:'Conference Hall'
 	}]
 	
 	for(var i = 0;i<jason09.length;i++){
